@@ -16,6 +16,8 @@ public class ProductCrudOperationsUsingSpringJpa {
 
     public static void main(String[] args) {
      SpringApplication.run(ProductCrudOperationsUsingSpringJpa.class, args);
-               }
+    System.out.println("Hi checking git");         
+    
+    }
         
     }
